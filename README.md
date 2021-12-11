@@ -10,12 +10,12 @@ I owned an MSX Spectravideo SVI-728 with a Computone cassette player, later to a
 
 Files without extension are MSX-basic saved in binary format (the default to save space). Same name with `.bas` extension are saved with `,A` parameter in ASCII.
 
-## Main directory
+### Atomo
 
-### Atomo.bas
+https://raw.githubusercontent.com/vicenteherrera/my-msx/main/atomo/atomo_run.mp4
 
-[atomo.bas](https://github.com/vicenteherrera/my-msx/blob/main/ATOMO.BAS)  
-[atomo2.bas](https://github.com/vicenteherrera/my-msx/blob/main/ATOMO2.BAS)
+[atomo.bas](https://github.com/vicenteherrera/my-msx/blob/main/atomo/ATOMO.BAS)  
+[atomo2.bas](https://github.com/vicenteherrera/my-msx/blob/main/atomo/ATOMO2.BAS)
 
 "Atomo" (atom in Spanish) is the main program I wanted to preserve in this repository. There are two versions with small differences.
 
@@ -25,19 +25,19 @@ To program this I had some Basic books that told me about generic programming. B
 
 I distinctly remember discovering negative numbers by subtracting 10 from a variable that had a value of 5, time before being taught that in school. And of course, all English words I learned first using Basic. Another interesting topic is that to create the circular trajectories of electrons, I had to use the `sin` and `cos` functions, but that I had no idea what meant. I got it to work after looking into several examples and by trial and error; it was years later when I was taught trigonometry.
 
-## Sprites directory
+### Sprites directory
 
 On the `sprites` directory are several programs that hold sprites I was drawing, characters remapping and other animations I was doing in order to be able to use them in games.
 
 I never got too far with this, which is a shame. I was discouraged by other Basic programs I was coding from magazines and books, or from them in cassettes, that I didn't find very interesting. Just doing something similar but with my sprites was not enough for me.
 
-## Sounds directory
+### Sounds directory
 
 Here are several programs using sound, I think I just copied code I found interesting on other programs for later use in my own creations.
 
 One of them is the playing song of "Penelope", which I think I learned first to play in a digital piano we had, and later I programmed in Basic coding every note. Anyways that program is corrupted and I only could get some of the code.
 
-## Others directory
+### Others directory
 
 Here I include Basic programs by other people that were also on my disks, including a Sprite drawing program that I was using to create my own.
 
