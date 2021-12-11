@@ -2,24 +2,23 @@
 
 MSX Basic programs I created when I was a child, and other MSX related stuff.
 
-## Introduction
-
 I owned an MSX Spectravideo SVI-728 with a Computone cassette player, later to add a 5,25' disk drive.
-
-## Programs
 
 Files without extension are MSX-basic saved in binary format (the default to save space). Same name with `.bas` extension are saved with `,A` parameter in ASCII.
 
-### Atomo
+### Átomo
 
-https://raw.githubusercontent.com/vicenteherrera/my-msx/main/atomo/atomo_run.mp4
+https://user-images.githubusercontent.com/2675392/145686769-252d441a-f92a-4ffa-b250-4f4dd7f052a6.mp4
 
+[Video full screen](https://github.com/vicenteherrera/my-msx/blob/main/atomo/atomo2_run.mp4?raw=true)
+
+**Source**  
 [atomo.bas](https://github.com/vicenteherrera/my-msx/blob/main/atomo/ATOMO.BAS)  
 [atomo2.bas](https://github.com/vicenteherrera/my-msx/blob/main/atomo/ATOMO2.BAS)
 
-"Atomo" (atom in Spanish) is the main program I wanted to preserve in this repository. There are two versions with small differences.
+"Átomo" (atom in Spanish) is the main program I wanted to preserve in this repository. There are two versions with small differences.
 
-I programmed it to simulate what I was reading about the experiments conducted to demonstrate that the atom was constituted of a heavy and dense positive-charged nucleus (protons and neutrons), and a sparse crust with a negative charge (electrons).
+I programmed it to simulate what I was reading in my school science book about the experiments conducted to demonstrate that the atom was constituted of a heavy and dense positive-charged nucleus (protons and neutrons), and a sparse crust with a negative charge (electrons).
 
 To program this I had some Basic books that told me about generic programming. But the more complex stuff I learned when looking into other people’s code in magazines.
 
