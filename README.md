@@ -47,3 +47,21 @@ Here I include Basic programs by other people that were also on my disks, includ
 ## Rescuing the programs
 
 These programs lived in several 5,25' disks that could only be read from my MSX machine. I had a PC 5,25' drive that I had no way to use, as it could only be used with old motherboards. When I finally got to buy a special MSX Cartdridge that could save to an SD card, and tried it... my MSX was dead after being functional for more than 30 years. I was trying to fix it by myself when one day I found a deal for an second hand equivalent Spectravideo MSX model (the disk drive doesn't work on other MSX machines).
+
+You can read some of my tweets about it in these threads
+
+
+  * `2020-09-20` [Atomo program running before the MSX broke](https://twitter.com/Vicen_Herrera/status/1307734304403922944)
+  * `2021-01-31` [Trying to use de MSX and discover it broken](https://twitter.com/Vicen_Herrera/status/1355941263019827203)
+  * `2021-02-06` [The SD cartdridge arrived too late](https://twitter.com/Vicen_Herrera/status/1357996269315178498)
+  * `2021-02-12` [First opening the computer](https://twitter.com/Vicen_Herrera/status/1360309088379408384)
+  * `2021-02-13` [Trying the easy fix first](https://twitter.com/Vicen_Herrera/status/1360708365773635587)
+  * `2021-02-21` [No cleaning, let's check transistors](https://twitter.com/Vicen_Herrera/status/1363566690597036035)
+  * `2021-02-28` [Planning to replace diodes](https://twitter.com/Vicen_Herrera/status/1366136914697453575)
+  * `2021-03-01` [Official service manual procedure](https://twitter.com/Vicen_Herrera/status/1366497154739666949)
+  * `2021-03-06` [Service Manual and checking diodes](https://twitter.com/Vicen_Herrera/status/1368257565356867586)
+  * `2021-03-14` [Cleaning the inside](https://twitter.com/Vicen_Herrera/status/1371073239917735939)
+  * `2021-09-11` [Two computers](https://twitter.com/Vicen_Herrera/status/1436720839806930944)
+  * `2021-09-26` [Finally, data saved](https://twitter.com/Vicen_Herrera/status/1442246565909905408)
+
+
