@@ -25,6 +25,10 @@ To program this I had some Basic books that told me about generic programming. B
 
 I distinctly remember discovering negative numbers by subtracting 10 from a variable that had a value of 5, time before being taught that in school. And of course, all English words I learned first using Basic. Another interesting topic is that to create the circular trajectories of electrons, I had to use the `sin` and `cos` functions, but that I had no idea what meant. I got it to work after looking into several examples and by trial and error; it was years later when I was taught trigonometry.
 
+### Misc directory
+
+Miscelaneous programs, I will document more here about them later.
+
 ### Sprites directory
 
 On the `sprites` directory are several programs that hold sprites I was drawing, characters remapping and other animations I was doing in order to be able to use them in games.
