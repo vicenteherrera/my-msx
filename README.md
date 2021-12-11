@@ -14,8 +14,8 @@ Files without extension are MSX-basic saved in binary format (the default to sav
 
 ### Atomo.bas
 
-[atom.bas](./atom.bas)
-[atmo2.bas](./atom.bas)
+[atomo.bas](https://github.com/vicenteherrera/my-msx/blob/main/ATOMO.BAS)  
+[atomo2.bas](https://github.com/vicenteherrera/my-msx/blob/main/ATOMO2.BAS)
 
 "Atomo" (atom in Spanish) is the main program I wanted to preserve in this repository. There are two versions with small differences.
 
